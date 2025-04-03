@@ -13,4 +13,3 @@ Sinta-se à vontade para explorar meus repositórios e trocar ideias!
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"> 
 </div>
-<h2>Linguagens em que me destaco: Python e JavaScript.</h2>
